@@ -416,3 +416,13 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+.round {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-top: 30px;
+  margin-right: 50px;
+ }﻿ 
+   
